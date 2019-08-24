@@ -22,7 +22,7 @@ end
 
 def my_hash_creator(key, value)
   temp = {
-    key: "value"
+    key: value
   }
   p temp
 end
