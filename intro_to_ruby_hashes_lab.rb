@@ -24,7 +24,7 @@ def my_hash_creator(key, value)
   temp = {
     key: value
   }
-  p temp
+  puts temp
 end
 
 def read_from_hash(hash, key)
